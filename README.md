@@ -1,7 +1,8 @@
-# RLID
-Source code provided by the journal paper Rapid Language Identification (RLID)
+# Rapid Language Identification (RLID)
 
-Published in:
+## Source code provided by the journal paper 
+
+*Published in:*
 IEEE/ACM Transactions on Audio, Speech, and Language Processing
 
 Paper abstract:
